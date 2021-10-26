@@ -1,0 +1,110 @@
+<div>
+                <h1 class="module-title decoration-arrow">You Should Know</h1>
+                <ul class="swipe-h">
+                    <li>
+                      <article class="slide">
+                          <div class="media">
+                            <figure>
+                              <a href=/6109886/colin-powell-marc-benioff/>
+                                  <img src="https://api.time.com/wp-content/uploads/2021/10/colin-powell-marc-benioff-3.jpg?quality&#x3D;85&amp;w&#x3D;640&amp;h&#x3D;640&amp;crop&#x3D;1" loading="lazy" alt="What I Learned From Colin Powell"/>
+                                  <div class="penta"><span class="penta-arrow"></span></div>
+                              </a>
+                            </figure>
+                              <div class="image-credit">
+                            </div>
+                          </div>
+                          <div class="content">
+                            <p class="no-eyebrow"></p>
+                      
+                            <h2 class="title"><a href=/6109886/colin-powell-marc-benioff/>What I Learned From Colin Powell</a></h2>
+                      
+                      
+                          </div>
+                      
+                      </article>                    </li>
+                    <li>
+                      <article class="slide">
+                          <div class="media">
+                            <figure>
+                              <a href=/6109500/alec-baldwin-halyna-hutchins-rust-death/>
+                                  <img src="https://api.time.com/wp-content/uploads/2021/10/GettyImages-907318764.jpg?quality&#x3D;85&amp;w&#x3D;640&amp;h&#x3D;640&amp;crop&#x3D;1" loading="lazy" alt="Cinematographer Halyna Hutchins Killed by a Prop Gun on a Film Set"/>
+                                  <div class="penta"><span class="penta-arrow"></span></div>
+                              </a>
+                            </figure>
+                              <div class="image-credit">
+                            </div>
+                          </div>
+                          <div class="content">
+                            <p class="no-eyebrow"></p>
+                      
+                            <h2 class="title"><a href=/6109500/alec-baldwin-halyna-hutchins-rust-death/>Cinematographer Halyna Hutchins Killed by a Prop Gun on a Film Set</a></h2>
+                      
+                      
+                          </div>
+                      
+                      </article>                    </li>
+                    <li>
+                      <article class="slide">
+                          <div class="media">
+                            <figure>
+                              <a href=/6108867/facebook-new-name/>
+                                  <img src="https://api.time.com/wp-content/uploads/2021/10/facebook-rebranding.jpg?quality&#x3D;85&amp;w&#x3D;640&amp;h&#x3D;640&amp;crop&#x3D;1" loading="lazy" alt="Can A New Name Save Facebook?"/>
+                                  <div class="penta"><span class="penta-arrow"></span></div>
+                              </a>
+                            </figure>
+                              <div class="image-credit">
+                            </div>
+                          </div>
+                          <div class="content">
+                            <p class="no-eyebrow"></p>
+                      
+                            <h2 class="title"><a href=/6108867/facebook-new-name/>Can A New Name Save Facebook?</a></h2>
+                      
+                      
+                          </div>
+                      
+                      </article>                    </li>
+                    <li>
+                      <article class="slide">
+                          <div class="media">
+                            <figure>
+                              <a href=/6109038/donald-trump-truth-social/>
+                                  <img src="https://api.time.com/wp-content/uploads/2021/10/Donald-Trump-Truth-Social.jpg?quality&#x3D;85&amp;crop&#x3D;105px%2C31px%2C225px%2C225px&amp;resize&#x3D;640%2C640&amp;strip" loading="lazy" alt="What to Know About Donald Trump&#x27;s &#x27;TRUTH&#x27; Social Media Platform"/>
+                                  <div class="penta"><span class="penta-arrow"></span></div>
+                              </a>
+                            </figure>
+                              <div class="image-credit">
+                            </div>
+                          </div>
+                          <div class="content">
+                            <p class="no-eyebrow"></p>
+                      
+                            <h2 class="title"><a href=/6109038/donald-trump-truth-social/>What to Know About Donald Trump's 'TRUTH' Social Media Platform</a></h2>
+                      
+                      
+                          </div>
+                      
+                      </article>                    </li>
+                    <li>
+                      <article class="slide">
+                          <div class="media">
+                            <figure>
+                              <a href=https://ti.me/3dinygr>
+                                  <img src="https://api.time.com/wp-content/uploads/2021/05/social22.jpg?quality&#x3D;85&amp;w&#x3D;640&amp;h&#x3D;640&amp;crop&#x3D;1" loading="lazy" alt="Meet TIME&#x27;s Next Generation Leaders"/>
+                                  <div class="penta"><span class="penta-arrow"></span></div>
+                              </a>
+                            </figure>
+                              <div class="image-credit">
+                            </div>
+                          </div>
+                          <div class="content">
+                            <p class="no-eyebrow"></p>
+                      
+                            <h2 class="title"><a href=https://ti.me/3dinygr>Meet TIME's Next Generation Leaders</a></h2>
+                      
+                      
+                          </div>
+                      
+                      </article>                    </li>
+                </ul>
+              </div>
